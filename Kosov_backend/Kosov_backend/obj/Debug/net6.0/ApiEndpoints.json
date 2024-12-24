@@ -1,0 +1,324 @@
+[
+  {
+    "ContainingType": "Kosov_backend.Controllers.AthletesController",
+    "Method": "GetAllAthelets",
+    "RelativePath": "api/Athletes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.AthletesController",
+    "Method": "AddAthelet",
+    "RelativePath": "api/Athletes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "athelet",
+        "Type": "Kosov_backend.Models.Athlete",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.AthletesController",
+    "Method": "GetWorkoutPlansForAthelet",
+    "RelativePath": "api/Athletes/{atheletId}/workoutplans",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "atheletId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.AthletesController",
+    "Method": "GetAtheletById",
+    "RelativePath": "api/Athletes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.AthletesController",
+    "Method": "UpdateAthelet",
+    "RelativePath": "api/Athletes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "athelet",
+        "Type": "Kosov_backend.Models.Athlete",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.AthletesController",
+    "Method": "DeleteAthelet",
+    "RelativePath": "api/Athletes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.ExercisesController",
+    "Method": "GetAllExercises",
+    "RelativePath": "api/Exercises",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.ExercisesController",
+    "Method": "AddExercise",
+    "RelativePath": "api/Exercises",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "exercise",
+        "Type": "Kosov_backend.Models.Exercise",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.ExercisesController",
+    "Method": "GetWorkoutPlansForExercise",
+    "RelativePath": "api/Exercises/{exerciseId}/workoutplans",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "exerciseId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.ExercisesController",
+    "Method": "GetExerciseById",
+    "RelativePath": "api/Exercises/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.ExercisesController",
+    "Method": "UpdateExercise",
+    "RelativePath": "api/Exercises/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "exercise",
+        "Type": "Kosov_backend.Models.Exercise",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.ExercisesController",
+    "Method": "DeleteExercise",
+    "RelativePath": "api/Exercises/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.ExercisesController",
+    "Method": "GetExercisesByType",
+    "RelativePath": "api/Exercises/type/{type}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.WorkoutPlansController",
+    "Method": "GetAllWorkoutPlans",
+    "RelativePath": "api/WorkoutPlans",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.WorkoutPlansController",
+    "Method": "AddWorkoutPlan",
+    "RelativePath": "api/WorkoutPlans",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workoutPlan",
+        "Type": "Kosov_backend.Models.WorkoutPlan",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.WorkoutPlansController",
+    "Method": "GetWorkoutPlanById",
+    "RelativePath": "api/WorkoutPlans/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.WorkoutPlansController",
+    "Method": "UpdateWorkoutPlan",
+    "RelativePath": "api/WorkoutPlans/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "workoutPlan",
+        "Type": "Kosov_backend.Models.WorkoutPlan",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.WorkoutPlansController",
+    "Method": "DeleteWorkoutPlan",
+    "RelativePath": "api/WorkoutPlans/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.WorkoutPlansController",
+    "Method": "GetExercisesForWorkoutPlan",
+    "RelativePath": "api/WorkoutPlans/{workoutPlanId}/exercises",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workoutPlanId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kosov_backend.Controllers.WorkoutPlansController",
+    "Method": "AddExercisesToWorkoutPlan",
+    "RelativePath": "api/WorkoutPlans/{workoutPlanId}/exercises",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workoutPlanId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "exerciseIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

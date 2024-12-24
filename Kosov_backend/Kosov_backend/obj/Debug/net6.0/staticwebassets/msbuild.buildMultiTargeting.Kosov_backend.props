@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kosov_backend.props" />
+</Project>

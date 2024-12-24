@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\controllers\\athletescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\controllers\\athletescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\data\\kosov_backendcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\data\\kosov_backendcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\controllers\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\controllers\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\managers\\athletesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\managers\\athletesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\models\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\models\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4_kurs\\tech_of_networking\\lab1\\xedjt\\web_7sem-anton\\Zhuchkov_backend\\Kosov_backend\\Migrations\\20241224152010_updateAtheletes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\shareddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\shareddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\models\\workoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\models\\workoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\managers\\exercisesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\managers\\exercisesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\controllers\\workoutplanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\controllers\\workoutplanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\managers\\workoutplansmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\managers\\workoutplansmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Kosov_backendContext_fd6d701c_5aa4_45f4_b2f7_5062782c8fff/True/SqlTable/dbo.SubscribeRoomTimeChunk.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Kosov_backendContext_fd6d701c_5aa4_45f4_b2f7_5062782c8fff/True/SqlTable/dbo.SubscribeRooms.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\models\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\models\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|d:\\4_kurs\\tech_of_networking\\lab1\\kosov_backend\\kosov_backend\\migrations\\20241224153350_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CD685-6ADE-4305-8E3B-554EC407A617}|Kosov_backend\\Kosov_backend.csproj|solutionrelative:kosov_backend\\migrations\\20241224153350_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kosov_backendContext.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Data\\Kosov_backendContext.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Data\\Kosov_backendContext.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Data\\Kosov_backendContext.cs",
+              "RelativeToolTip": "Kosov_backend\\Data\\Kosov_backendContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T22:53:02.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Program.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Program.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Program.cs",
+              "RelativeToolTip": "Kosov_backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:39:30.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AthletesController.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Controllers\\AthletesController.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Controllers\\AthletesController.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Controllers\\AthletesController.cs",
+              "RelativeToolTip": "Kosov_backend\\Controllers\\AthletesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:49:04.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Athlete.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Models\\Athlete.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Models\\Athlete.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Models\\Athlete.cs",
+              "RelativeToolTip": "Kosov_backend\\Models\\Athlete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:48:16.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AthletesManager.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Managers\\AthletesManager.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Managers\\AthletesManager.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Managers\\AthletesManager.cs",
+              "RelativeToolTip": "Kosov_backend\\Managers\\AthletesManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:47:52.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Startup.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Startup.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Startup.cs",
+              "RelativeToolTip": "Kosov_backend\\Startup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:37:18.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExercisesController.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Controllers\\ExercisesController.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Controllers\\ExercisesController.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Controllers\\ExercisesController.cs",
+              "RelativeToolTip": "Kosov_backend\\Controllers\\ExercisesController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:56:53.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241224152010_updateAtheletes.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\xedjt\\web_7sem-anton\\Zhuchkov_backend\\Kosov_backend\\Migrations\\20241224152010_updateAtheletes.cs",
+              "RelativeDocumentMoniker": "..\\xedjt\\web_7sem-anton\\Zhuchkov_backend\\Kosov_backend\\Migrations\\20241224152010_updateAtheletes.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\xedjt\\web_7sem-anton\\Zhuchkov_backend\\Kosov_backend\\Migrations\\20241224152010_updateAtheletes.cs",
+              "RelativeToolTip": "..\\xedjt\\web_7sem-anton\\Zhuchkov_backend\\Kosov_backend\\Migrations\\20241224152010_updateAtheletes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:20:10.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241224153350_init.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Migrations\\20241224153350_init.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Migrations\\20241224153350_init.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Migrations\\20241224153350_init.cs",
+              "RelativeToolTip": "Kosov_backend\\Migrations\\20241224153350_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:33:50.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SharedData.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\SharedData.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\SharedData.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\SharedData.cs",
+              "RelativeToolTip": "Kosov_backend\\SharedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:36:00.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Models\\SeedData.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Models\\SeedData.cs",
+              "RelativeToolTip": "Kosov_backend\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T22:02:14.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Models\\Exercise.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Models\\Exercise.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Models\\Exercise.cs",
+              "RelativeToolTip": "Kosov_backend\\Models\\Exercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:43:53.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkoutPlan.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Models\\WorkoutPlan.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Models\\WorkoutPlan.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Models\\WorkoutPlan.cs",
+              "RelativeToolTip": "Kosov_backend\\Models\\WorkoutPlan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:47:13.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Kosov_backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:50:51.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WorkoutPlansController.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Controllers\\WorkoutPlansController.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Controllers\\WorkoutPlansController.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Controllers\\WorkoutPlansController.cs",
+              "RelativeToolTip": "Kosov_backend\\Controllers\\WorkoutPlansController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:45:46.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WorkoutPlansManager.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Managers\\WorkoutPlansManager.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Managers\\WorkoutPlansManager.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Managers\\WorkoutPlansManager.cs",
+              "RelativeToolTip": "Kosov_backend\\Managers\\WorkoutPlansManager.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:26:10.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExercisesManager.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Managers\\ExercisesManager.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Managers\\ExercisesManager.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Managers\\ExercisesManager.cs",
+              "RelativeToolTip": "Kosov_backend\\Managers\\ExercisesManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:33:08.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.SubscribeRoomTimeChunk.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Kosov_backendContext_fd6d701c_5aa4_45f4_b2f7_5062782c8fff/True/SqlTable/dbo.SubscribeRoomTimeChunk.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Kosov_backendContext_fd6d701c_5aa4_45f4_b2f7_5062782c8fff/True/SqlTable/dbo.SubscribeRoomTimeChunk.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-24T07:57:12.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.SubscribeRooms.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Kosov_backendContext_fd6d701c_5aa4_45f4_b2f7_5062782c8fff/True/SqlTable/dbo.SubscribeRooms.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Kosov_backendContext_fd6d701c_5aa4_45f4_b2f7_5062782c8fff/True/SqlTable/dbo.SubscribeRooms.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-24T07:57:19.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Models\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "Kosov_backend\\Models\\AuthOptions.cs",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\Models\\AuthOptions.cs",
+              "RelativeToolTip": "Kosov_backend\\Models\\AuthOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:28:58.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Kosov_backend\\appsettings.json",
+              "ToolTip": "D:\\4_kurs\\tech_of_networking\\lab1\\Kosov_backend\\Kosov_backend\\appsettings.json",
+              "RelativeToolTip": "Kosov_backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T19:39:33.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
